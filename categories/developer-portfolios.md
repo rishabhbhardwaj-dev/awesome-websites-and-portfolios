@@ -6,6 +6,12 @@ A collection of open-source developer portfolios with live websites and publicly
 
  Projects
 
+### yujisatojr
+
+- **Live Demo:** [View Website](https://yujisatojr.github.io/react-portfolio-template/)
+- **Source:** [GitHub Repository](https://github.com/yujisatojr/react-portfolio-template)
+
+
 ### React Portfolio Template
 
 A customizable developer portfolio template for showcasing projects, career history, and skills. It supports responsive layouts, dark and light modes, and a multi-component design.
