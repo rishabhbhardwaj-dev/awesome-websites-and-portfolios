@@ -12,6 +12,12 @@ A collection of open-source developer portfolios with live websites and publicly
 - **Source:** [GitHub Repository](https://github.com/yujisatojr/react-portfolio-template)
 
 
+### Rishabh Bhardwaj — Developer Portfolio
+
+- **Live Demo:** [View Website](https://rishabh-portfolio-lac.vercel.app/)
+- **Source:** [GitHub Repository](https://github.com/rishabhbhardwaj-dev/rishabh-portfolio)
+
+
 ### React Portfolio Template
 
 A customizable developer portfolio template for showcasing projects, career history, and skills. It supports responsive layouts, dark and light modes, and a multi-component design.
