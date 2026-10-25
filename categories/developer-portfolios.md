@@ -31,6 +31,12 @@ The fourth iteration of Brittany Chiang's personal developer portfolio, featurin
 - **Source:** [GitHub Repository](https://github.com/BraydenTW/braydentw.io)
 
 
+
+
+### react-chakra-portfolio
+- **Live Demo:** [Visit Website]()
+- **Source:** [GitHub Repository](https://github.com/2bitprince/react_chakra_portfolio)
+
 ### How to add a project
 
 - **Name:** Project or portfolio name
